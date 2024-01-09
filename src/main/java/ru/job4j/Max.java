@@ -6,7 +6,6 @@ public class Max {
 
     }
 
-
     public static void main(String[] args) {
         int maxi = Max.max(2, 3);
         System.out.println(maxi);
